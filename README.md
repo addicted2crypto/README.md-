@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm addicted2crypto(Willim)</h1>
+<h1 align="center">Hi 👋, I'm addicted2crypto(William)</h1>
 <h3 align="center">I found my passion in code. I will continue learning everyday with new tech stacks!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addicted2crypto" alt="addicted2crypto" /></a> </p>
 
-- Hi, I'm William and I found out I love to code on opensource projects  [BTC startup.](nda will provide codebase upon req.)
+- Hi, I'm William, and I found out I love to code on open-source projects  [BTC startup.](nda will provide codebase upon req.)
 
 - 🌱 I’m currently learning anything that I find passion in. **react, typescript, AI**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [request for coffee chat.](request for coffee chat.)
 
-- ⚡ Fun fact **I found coding later in my life, and im now showing my kids its ok to chase things that you are passionate about.**
+- ⚡ Fun fact **I found coding later in my life, and I'm now showing my kids it's ok to chase things that you are passionate about.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
